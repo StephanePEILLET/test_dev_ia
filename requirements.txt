@@ -1,0 +1,12 @@
+# Dépendances pour le convertisseur de devise
+requests>=2.28.0    # Pour les appels API
+click>=8.0.0        # Pour l'interface CLI
+colorama>=0.4.4     # Pour les couleurs dans le terminal
+
+# Pour le développement et les tests (optionnel)
+# pytest>=7.0.0  # Alternative à unittest pour les tests
+# black>=22.0.0  # Formatage de code
+# flake8>=4.0.0  # Linting
+# mypy>=0.950    # Vérification de types
+
+# Python version requise: 3.8+ 
